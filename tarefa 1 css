@@ -1,0 +1,45 @@
+table{
+    text-align: center;
+    background-color: rgb(236, 236 ,236);
+    height: 250px;
+    width: 600px;
+    padding-top: 5px;
+}
+
+.primeiro{
+    background-color: rgb(202, 202, 202);
+    border-top-color: rgb(168, 168, 168);
+    border-top-style: solid;
+    height:35px;
+    width:80px
+}
+.segundo{
+    background-color: rgb(201, 241, 140);
+    border-top-color: rgb(20, 184, 20);
+    border-top-style: solid;
+    width:130px; 
+}
+
+.terceiro{
+    background-color: rgb(173, 202, 255);
+    border-top-color: rgb(98, 138, 214);
+    border-top-style: solid;
+    width: 130px;
+}
+.quarto{
+    background-color: rgb(226, 195, 255);
+    border-top-color: rgb(166, 75, 252);
+    border-top-style: solid;
+    width: 130px;
+}
+
+.quinto{
+    background-color: rgb(255, 219, 177);
+    border-top-color: orange;
+    border-top-style:solid;
+    width: 130px;
+}
+p{
+   margin-top: 0;
+   font-size: 13px;
+}
